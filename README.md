@@ -4,5 +4,4 @@
 
 ![TastSong's github activity graph](https://activity-graph.herokuapp.com/graph?username=TastSong&theme=nord)
 
-![Metrics](https://metrics.lecoq.io/TastSong?template=classic&config.timezone=Asia%2FTokyo)
 
