@@ -1,5 +1,9 @@
 <p><em>I'm a hobby programmer.　<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" />　<img alt="Visitors" src="https://komarev.com/ghpvc/?username=TastSong&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/></em></p>  
 
-![TastSong's github stats](https://github-readme-stats.vercel.app/api?username=TastSong&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=303030&include_all_commits=true)
+| Topic Stats | Language Stats | 
+| ------ | ------ | 
+| ![Topic Stats](https://github-readme-stats.vercel.app/api?username=TastSong&show_icons=true&locale=cn&hide_border=true&theme=tokyonight&line_height=40) | ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TastSong&layout=normal&locale=cn&hide_border=true&theme=tokyonight&card_width=400) | 
+
+ ![Commit Stats](https://github-readme-activity-graph.vercel.app/graph?username=TastSong&theme=react-dark&point=66ccff) 
 
 
